@@ -6,6 +6,13 @@ Essential Cheat Sheets for Machine Learning and Deep Learning Engineers
 Learning machine learning and deep learning is difficult for newbies. As well as deep learning libraries are difficult to understand. I am creating a repository on Github(cheatsheets-ai) with cheat sheets which I collected from different sources. Do visit it and contribute cheat sheets if you have any. Thanks.
 Keras
 
+Essential Cheat Sheets for Machine Learning and Deep Learning Engineers
+Learning machine learning and deep learning is difficult for newbies. As well as deep learning libraries are difficult to understand. I am creating a repository on Github(cheatsheets-ai) with cheat sheets which I collected from different sources. Do visit it and contribute cheat sheets if you have any. Thanks.
+Keras
+
+Source — https://www.datacamp.com/community/blog/keras-cheat-sheet#gs.DRKeNMs
+2. Numpy
+
 Source — https://www.datacamp.com/community/blog/keras-cheat-sheet#gs.DRKeNMs
 2. Numpy
 
